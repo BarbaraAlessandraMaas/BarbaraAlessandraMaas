@@ -1,12 +1,12 @@
-### Olá, eu sou a Bárbara Maas!
+### ◼️ Olá, eu sou a Bárbara! ◼️
 
 <div align="center">
   <a href="https://github.com/BarbaraAlessandraMaas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BarbaraAlessandraMaas&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarbaraAlessandraMaas&layout=compact&langs_count=7&theme=onedark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BarbaraAlessandraMaas&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarbaraAlessandraMaas&layout=compact&langs_count=7&theme=onedark"/>
 </div>
   
-  ##
+##
 
 <div align="center">
   <a href="https://www.instagram.com/babi.maas/" target="_blank">
